@@ -19,4 +19,4 @@ Not before June 2022.
 
 ### Support or Contact
 
-Contact [me](https://uk.linkedin.com/in/bryanhuntwithay) on linkedin.
+Contact [Bryan Hunt](https://uk.linkedin.com/in/bryanhuntwithay) on linkedin.
