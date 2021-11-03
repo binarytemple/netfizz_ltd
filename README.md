@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+---
 
-You can use the [editor on GitHub](https://github.com/binarytemple/netfizz_ltd/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+---
+## Welcome to Netfizz LTD
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What is Netfizz LTD? Netfizz LTD is a software consultancy founded by Bryan Hunt - you can read more about him [here](https://uk.linkedin.com/in/bryanhuntwithay).
 
-### Markdown
+### What do we specialise in? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The intersection of distributed systems, declarative infrastructure, security and containerisation.
 
-```markdown
-Syntax highlighted code block
+### Are you a registered company?
 
-# Header 1
-## Header 2
-### Header 3
+We certainly are, [this is our record on Companies House](https://find-and-update.company-information.service.gov.uk/company/NI683005)..
 
-- Bulleted
-- List
+### Can we hire you? 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/binarytemple/netfizz_ltd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Not before June 2022.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contact [me](https://uk.linkedin.com/in/bryanhuntwithay) on linkedin.
